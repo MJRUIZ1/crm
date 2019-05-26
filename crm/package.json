@@ -1,0 +1,22 @@
+{
+  "name": "crm",
+  "version": "1.0.0",
+  "description": "My kickass Nuxt.js project",
+  "author": "MJRUIZ1",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0",
+    "nuxt-buefy": "^0.3.2",
+    "vee-validate": "^2.2.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
